@@ -34,7 +34,7 @@ NPM
 
 ## How to begin：
 ```
-git clone https://github.com/tws-online-quiz/bootstrap-build-host-page
+git clone `this repo site`
 ```
 Stack Initial and build:
 
