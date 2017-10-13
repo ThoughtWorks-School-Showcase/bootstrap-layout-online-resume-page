@@ -1,31 +1,31 @@
 # Bootstrap layout online resume page
-## Business Requirements:
-Reference this Prototype，Please write html in index.html，the result should display as below screenshot: 
+## Business Requirement:
+Refer to this Prototype，Please write html in `index.html`, the result should display as below: 
 ![](./mock.png)
 
-* Only implement the content and layout，there is no requirement complele the detail of style in different module.
+* Only implement the content and layout, there is no need to complete the detail of style for the page modules.
 
 ## Practice Challenges:
-* Understand and use the Bootstrap Grid system + CSS to page layout.
+* Understand and use the Bootstrap Grid system + CSS to the page layout.
 * Apply the Bootstrap text component to display different fields.
 * Nested using a variety of Bootstrap components constitute the page structure.
 * Retrieve and use the appropriate Bootstrap component to complete the corresponding display.
-* The page needs to be responsive layout.
+* The page needs to have a responsive layout.
 * Understand and simply apply the CSS box model principle.
 
 
 ## Practice Requirements:
-*  Use Bootstrap Grid for layout.
+* Use Bootstrap Grid for the layout.
 * Adapt the mobile screen display.
-* Complete the content in different modeul after layout the overall page structure.
-* CSS code should be store in separated file.
-* Pass the test
+* Complete the content in the page modules after laying out the overall page structure.
+* CSS code should be stored in a separated file.
+* Pass all the tests
 
 ## Practice Output:
-Please push your practice repo to the incated site which coach will tell you.
-Repository should includes：
+Please push your practice repo to the site which the trainer will tell you.
+The Repository should includes：
 1. Implemented code
-2. Screenshot after all code compleled
+2. Screenshot after all code completed
 
 ## Environment
 Chrome
@@ -38,10 +38,10 @@ git clone https://github.com/tws-online-quiz/bootstrap-build-host-page
 ```
 Stack Initial and build:
 
-Open the index.html with browser direatly, you will see the result of any change.
+Open the index.html with browser, you will see the result of any change.
 
 
-## Learn Resourse(Chinese Version):
+## Learning Resourse(Chinese Version):
 1. [npm 下载安装](https://github.com/npm/npm)
 2. [node 下载安装](https://github.com/creationix/nvm)
 3. [jasmine用法](http://jasmine.github.io/2.4/introduction.html)
